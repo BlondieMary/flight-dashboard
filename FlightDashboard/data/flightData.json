@@ -1,0 +1,6 @@
+[
+    { "latitude": 48.8566, "longitude": 2.3522, "altitude": 1000, "speed": 450, "timestamp": "10:00" },
+    { "latitude": 50.1109, "longitude": 8.6821, "altitude": 1200, "speed": 480, "timestamp": "10:05" },
+    { "latitude": 52.5200, "longitude": 13.4050, "altitude": 1500, "speed": 500, "timestamp": "10:10" }
+  ]
+  
